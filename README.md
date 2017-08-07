@@ -51,7 +51,5 @@ public void Test_WeakEventListener_Events()
 }
 ```
 
-For more examples, refer to the MSDN reference documentation over at: https://msdn.microsoft.com/en-us/library/system.device.location.geocoordinate(v=vs.110).aspx
-
 # With thanks to
 * The WeakEventListener was promoted from the [UWPCommunityToolkit](https://github.com/Microsoft/UWPCommunityToolkit) to become this package.
